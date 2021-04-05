@@ -19,12 +19,12 @@ h2 {
 }
 
 #ttglogo {
-  width: 80%;
+  width: 60%;
   height: auto;
 }
 
 body {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .textcenter {
@@ -55,24 +55,22 @@ footer {
 }
 
 .disclaimer {
-  font-size: 8pt;
+  font-size: 10pt;
 }
 
 a {
   text-decoration: none;
+  color: #651fff;
 }
 
 #ringvid {
   height: 500px;
 }
 
-a {
-  color: #651fff;
-}
-
 .btn {
   color: #651fff;
   font-weight: 500;
+  font-size: 20px;
 }
 
 .btn:hover,
